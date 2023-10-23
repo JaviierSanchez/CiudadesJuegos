@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ciudades</string>
+    <string name="txt_Resultado">La opcion elegida es:</string>
+    <string name="txt_Comparacion">Introduce la ciudad</string>
+    <string name="button">Comprobar</string>
+
+
+</resources>
